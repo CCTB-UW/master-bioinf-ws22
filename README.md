@@ -1,3 +1,3 @@
 # Master Vorlesung Bioinformatik
 
-Wintersemester 2022/23
+This repository contains the accompanying notebooks for the lectures in "Bioinformatics" of the master Biosciences at the University of Würzburg.
